@@ -17,7 +17,9 @@
   "dependencies": {
     "assert": "^1.4.1",
     "bevent": "^0.1.2",
-    "bweb": "^0.1.4"
+    "blgr": "^0.1.2",
+    "bweb": "^0.1.4",
+    "hsd": "github:handshake-org/hsd"
   },
   "peerDependecies": {
     "hsd": "*"
